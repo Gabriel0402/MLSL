@@ -1,4 +1,4 @@
-# Unsupervised Domain Adaptation via Structured Prediction Based Selective Pseudo-Labeling
+# Multiview latent space learning with progressively fine-tuned deep features for unsupervised domain adaptation
 You need to change the directory to your data.
 You can download extracted features used in our experiments from [BaiduPan](https://pan.baidu.com/s/1Glb4KN142kXbz7-BfLggGQ) code: gqtv\
 zcy@cczu.edu.cn
